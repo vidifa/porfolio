@@ -15,6 +15,11 @@ body {
     background-repeat: no-repeat;
     background-size: 100%;
 }
+#sobremi{
+    background-image: url(../images/fondo-proyectos.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
 
 .proyectos {
     border: 1px solid #6a6a6a;
