@@ -66,6 +66,7 @@ textarea {
 p {
     color: #6a6a6a;
     font-size: 16px;
+    display: block;
 }
 
 .form-control {
@@ -96,6 +97,9 @@ p {
 .btn {
     border-radius: 14px;
 }
+footer a{
+    font-weight: 100;
+}
 
 .whatsapp {
     position: fixed;
@@ -109,6 +113,12 @@ p {
 .fa-whatsapp {
     font-size: 32px;
     color: white;
+}
+#footer-proyectos a, #footer-proyectos, #footer-sobremi, #footer-sobremi a{
+    color: #e20000;
+}
+.fa-github, .fa-linkedin-in{
+  font-size: 30px;
 }
 
 @media (max-width: 750px) {

@@ -33,7 +33,7 @@
                             <a class="nav-link active" href="proyectos.php">Proyectos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="contacto.php">Contactos</a>
+                            <a class="nav-link" href="contacto.php">Contacto</a>
                         </li>
                     </ul>
                     <div class="d-flex">
@@ -110,11 +110,11 @@
         </div>
 
     </main>
-    <footer class="container mt-5">
+    <footer id="footer-proyectos" class="container mt-5">
         <div class="row">
             <div class="col-12 col-sm-3">
-                <i class="fab fa-github"></i></a>
-                <i class="fab fa-linkedin-in"></i></a>
+            <a href="https://github.com" target="_blank" title="Github"><i class="fab fa-github"></i></a>
+            <a href="https://www.linkedin.com/in/./" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a>
             </div>
             <div class="col-12 col-sm-3">Sponsor <a href="https://depcsuite.com" target="_blank" title="DEPCSUITE">DePC Suite</a>
             </div>
