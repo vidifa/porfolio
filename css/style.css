@@ -20,6 +20,17 @@ body {
     background-repeat: no-repeat;
     background-size: 100%;
 }
+.img-circle{
+    margin: 1em auto;
+    display: block;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 50%;
+}
+.mt-4{
+    margin-top: 1.5rem! important;
+}
+
 
 .proyectos {
     border: 1px solid #6a6a6a;
@@ -99,6 +110,7 @@ p {
 }
 footer a{
     font-weight: 100;
+    color: white;
 }
 
 .whatsapp {
@@ -116,6 +128,9 @@ footer a{
 }
 #footer-proyectos a, #footer-proyectos, #footer-sobremi, #footer-sobremi a{
     color: #e20000;
+}
+#footer-contacto{
+    color: white;
 }
 .fa-github, .fa-linkedin-in{
   font-size: 30px;
