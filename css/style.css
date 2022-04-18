@@ -20,6 +20,77 @@ body {
     background-repeat: no-repeat;
     background-size: 100%;
 }
+#experiencia h2{
+    font-weight: 400;
+    font-size: 24px;
+    color: #370a6d;
+}
+#experiencia h4{
+    font-size: 17px;
+    color: #370a6d;
+}
+#formacion h2{
+    color: #e20000;
+    font-weight: 400;
+    font-size: 24px;
+}
+.baw{
+    filter: grayscale(100%);
+}
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+}
+#formacion h3, #experiencia h3{
+    color: #6a6a6a;
+    font-size: 18px;
+    font-weight: 600;
+}
+#formacion h4{
+    font-size: 17px;
+    color: #e20000;   
+}
+#formacion h5{
+    color: #6a6a6a;
+    font-size: 14px;
+}
+p{
+    color: #6a6a6a;
+    font-size: 14px;
+}
+#idiomas{
+    background-color: #eee;
+}
+.container{
+    width: 100%;    
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#idiomas .card-idioma{
+    border-radius: 15px;
+}
+#idiomas .card{
+     background-color: #370a6d;
+     border-radius: 15px;
+     padding: 40px 0;
+}
+#sobremi .card{
+    height: 182px;
+}
+#idiomas .fas{
+    font-size: 80px;
+    color: white;
+}
+#idiomas ul{
+    padding: 0px;
+    font-size: 14px;
+    color: #282828;
+    list-style-type: none;
+}
+#idiomas h2{
+    font-size: 16px;
+}
 .img-circle{
     margin: 1em auto;
     display: block;

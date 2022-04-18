@@ -140,7 +140,7 @@
                         </div>
                     </div>
                 </section>
-                <section>
+                <section id="experiencia" class="container">
                     <div class="row">
                         <div class="col-12 pt-5 pb-4">
                             <h2><i class="fas fa-briefcase"></i> Experiencia Laboral</h2>
@@ -156,13 +156,13 @@
                         </div>
                     </div>
                 </section>
-                <section>
+                <section id="formacion" class="container">
                     <div class="row">
                         <div class="col-12 pt-5 pb-4">
                             <h2><i class="fas fa-graduation-cap"></i> Formación Academica</h2>
                         </div>
                     </div>
-                    <div class="row shadow bg-white rounded">
+                    <div class="row shadow bg-white rounded p-1">
                         <div class="col-12">
                             <div class="row">
                                 <div class="col-2 p-5 my-auto d-none d-sm-block">
@@ -172,7 +172,7 @@
                         </div>
                     </div>
                 </section>
-                <section>
+                <section id="formacion" class="container">
                     <div class="row">
                         <div class="col-12 pt-5 pb-4">
                             <h2><i class="fas fa-graduation-cap"></i> Cursos de Desarrollo Personal</h2>
@@ -188,6 +188,41 @@
                         </div>
                     </div>
                 </section>
+                <section id="idiomas">
+            <div class="container gx-5">
+                <div class="row py-5 mx-0">
+                    <div class="col-sm-6 col-12 pb-3 pb-sm-0">
+                        <div class="row mr-sm-1 bg-white card-idioma shadow me-sm-1">
+                            <div class="col-4 text-center card">
+                                <i class="fas fa-comment-alt"></i>
+                            </div>
+                            <div class="col-8 p-5">
+                                <h2>IDIOMAS</h2>
+                                <ul>
+                                    <li>ESPAÑOL - Nativo</li>
+                                    <li>INGLÉS - Intermediate B2</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-12">
+                        <div class="row ml-sm-2 bg-white card-idioma shadow ms-sm-1">
+                            <div class="col-4 text-center card">
+                                <i class="fas fa-star"></i>
+                            </div>
+                            <div class="col-8 p-5">
+                                <h2>HOBBIES</h2>
+                                <ul>
+                                    <li>Tenis</li>
+                                    <li>Golf</li>
+                                    <li>Padel</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
 
 
