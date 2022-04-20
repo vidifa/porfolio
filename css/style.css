@@ -4,6 +4,15 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+#inicio {
+    background-image: url(../images/fondo-contacto.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#inicio .div-cohete{
+    height: 410px;
+}
+
 #contacto {
     background-image: url(../images/fondo-contacto.png);
     background-repeat: no-repeat;
@@ -20,6 +29,20 @@ body {
     background-repeat: no-repeat;
     background-size: 100%;
 }
+.color-gradiente{
+    background: rgba(184, 37, 20, 1);
+}
+h2{
+    font-size: 24px;
+}
+h3{
+    font-size: 14px;
+    color: #282828;
+    font-weight: 300;
+}
+#sobremi .card{
+    height: 182px;
+}
 #experiencia h2{
     font-weight: 400;
     font-size: 24px;
@@ -33,6 +56,11 @@ body {
     color: #e20000;
     font-weight: 400;
     font-size: 24px;
+}
+.btn{
+    color: #370a6d;
+    background-color: white;
+    border: none;
 }
 .baw{
     filter: grayscale(100%);
@@ -61,11 +89,6 @@ p{
 #idiomas{
     background-color: #eee;
 }
-.container{
-    width: 100%;    
-    margin-right: auto;
-    margin-left: auto;
-}
 
 #idiomas .card-idioma{
     border-radius: 15px;
@@ -75,9 +98,7 @@ p{
      border-radius: 15px;
      padding: 40px 0;
 }
-#sobremi .card{
-    height: 182px;
-}
+
 #idiomas .fas{
     font-size: 80px;
     color: white;
@@ -134,6 +155,12 @@ p{
 nav .active {
     border: 1px solid #e20000;
     border-radius: 25px;
+}
+.navbar{
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
 }
 
 h1 {
