@@ -2,6 +2,7 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
+    margin: 0px;
 }
 
 #inicio {
@@ -9,10 +10,6 @@ body {
     background-repeat: no-repeat;
     background-size: 100%;
 }
-#inicio .div-cohete{
-    height: 410px;
-}
-
 #contacto {
     background-image: url(../images/fondo-contacto.png);
     background-repeat: no-repeat;
@@ -24,10 +21,21 @@ body {
     background-repeat: no-repeat;
     background-size: 100%;
 }
+
 #sobremi{
     background-image: url(../images/fondo-proyectos.png);
     background-repeat: no-repeat;
     background-size: 100%;
+}
+#inicio .cohete{
+    height: 340px;
+}
+#inicio .input-home p{
+    color: white;
+    font-size: 17px;
+    border: 1px solid white;
+    border-radius: 50px;
+    font-weight: 600;
 }
 .color-gradiente{
     background: rgba(184, 37, 20, 1);

@@ -158,6 +158,21 @@
                                 <div class="col-2 p-5 my-auto d-none d-sm-block">
                                     <img src="images/jovima.png" alt="jovima" title="jovima" class="img-fluid baw">
                                 </div>
+                                <div class="col-12- col-sm-10 p-3">
+                                    <h3>GERENTE GENERAL</h3>
+                                    <h4>GRUPO JOVIMA</h4>
+                                    <h5>2016 - presente</h5>
+                                    <p>Empresa lider en construcción de vivienda en Málaga - España. </p>
+                                </div>
+                                <div class="col-2 p-5 my-auto d-none d-sm-block">
+                                    <img src="images/Deliverees.png" alt="jovima" title="jovima" class="img-fluid baw">
+                                </div>
+                                <div class="col-12- col-sm-10 p-3">
+                                    <h3>CEO</h3>
+                                    <h4>DELIVEREES</h4>
+                                    <h5>2022 - presente</h5>
+                                    <p>Empresa en expanción en el área de venta online y reparto a domicilio Málaga - España. </p>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -174,131 +189,139 @@
                                 <div class="col-2 p-5 my-auto d-none d-sm-block">
                                     <img src="images/usm.png" alt="usm" title="usm" class="img-fluid baw">
                                 </div>
+                                <div class="col-12- col-sm-10 p-3">
+                                    <h3>Ingeniero Civil</h3>
+                                    <h4>Universidad Santa Maria - Facultad de Ingenieria </h4>
+                                    <h5>1999 – 2004</h5>
+                                    <p>https://usm.edu.ve</p>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </section>
-                <section id="formacion" class="container mb-5">
+            </div>
+        </div>
+        </section>
+        <section id="formacion" class="container mb-5">
+            <div class="row">
+                <div class="col-12 pt-5 pb-4">
+                    <h2><i class="fas fa-graduation-cap"></i> Cursos de desarrollo profesional</h2>
+                </div>
+            </div>
+            <div class="row shadow bg-white rounded p-1">
+                <div class="col-12 col-sm-6">
                     <div class="row">
-                        <div class="col-12 pt-5 pb-4">
-                            <h2><i class="fas fa-graduation-cap"></i> Cursos de desarrollo profesional</h2>
+                        <div class="col-2 py-3 my-auto d-none d-sm-block">
+                            <img src="images/utn.jpg" class="img-fluid baw" title="depcsuite">
+                        </div>
+                        <div class="col-12- col-sm-10 p-3">
+                            <h3>Programa Ejecutivo en Project Management</h3>
+                            <h4>Universidad Tecnológica Nacional</h4>
+                            <h5>Expedición: may 2018</h5>
+                            <p></p>
                         </div>
                     </div>
-                    <div class="row shadow bg-white rounded p-1">
-                        <div class="col-12 col-sm-6">
-                            <div class="row">
-                                <div class="col-2 py-3 my-auto d-none d-sm-block">
-                                    <img src="images/utn.jpg" class="img-fluid baw" title="depcsuite">
-                                </div>
-                                <div class="col-12- col-sm-10 p-3">
-                                    <h3>Programa Ejecutivo en Project Management</h3>
-                                    <h4>Universidad Tecnológica Nacional</h4>
-                                    <h5>Expedición: may 2018</h5>
-                                    <p></p>
-                                </div>
-                            </div>
+                </div>
+                <div class="col-12 col-sm-6">
+                    <div class="row">
+                        <div class="col-2 py-3 my-auto d-none d-sm-block">
+                            <img src="images/ean.jpg" class="img-fluid baw" title="depcsuite">
                         </div>
-                        <div class="col-12 col-sm-6">
-                            <div class="row">
-                                <div class="col-2 py-3 my-auto d-none d-sm-block">
-                                    <img src="images/ean.jpg" class="img-fluid baw" title="depcsuite">
-                                </div>
-                                <div class="col-12- col-sm-10 p-3">
-                                    <h3>Diplomatura en Marketing</h3>
-                                    <h4>Escuela Argentina de Negocios</h4>
-                                    <h5>Expedición: dic 2017</h5>
-                                    <p></p>
-                                </div>
-                            </div>
+                        <div class="col-12- col-sm-10 p-3">
+                            <h3>Diplomatura en Marketing</h3>
+                            <h4>Escuela Argentina de Negocios</h4>
+                            <h5>Expedición: dic 2017</h5>
+                            <p></p>
                         </div>
-                        <div class="col-12 col-sm-6">
-                            <div class="row">
-                                <div class="col-2 py-3 my-auto d-none d-sm-block">
-                                    <img src="images/fundacion-impulsar.png" class="img-fluid baw" title="depcsuite">
-                                </div>
-                                <div class="col-12- col-sm-10 p-3">
-                                    <h3>Capacitación en Planes de Negocio</h3>
-                                    <h4>Fundación Impulsar</h4>
-                                    <h5>Expedición: may 2018</h5>
-                                    <p></p>
-                                </div>
-                            </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6">
+                    <div class="row">
+                        <div class="col-2 py-3 my-auto d-none d-sm-block">
+                            <img src="images/fundacion-impulsar.png" class="img-fluid baw" title="depcsuite">
                         </div>
-                        <div class="col-12 col-sm-6">
-                            <div class="row">
-                                <div class="col-2 py-3 my-auto d-none d-sm-block">
-                                    <img src="images/unlam.png" class="img-fluid baw" title="depcsuite">
-                                </div>
-                                <div class="col-12- col-sm-10 p-3">
-                                    <h3>Programación Web ASP.NET</h3>
-                                    <h4>Universidad Nacional de La Matanza</h4>
-                                    <h5>Expedición: dic 2019</h5>
-                                    <p></p>
-                                </div>
-                            </div>
+                        <div class="col-12- col-sm-10 p-3">
+                            <h3>Capacitación en Planes de Negocio</h3>
+                            <h4>Fundación Impulsar</h4>
+                            <h5>Expedición: may 2018</h5>
+                            <p></p>
                         </div>
-                        <div class="col-12 col-sm-6">
-                            <div class="row">
-                                <div class="col-2 py-3 my-auto d-none d-sm-block">
-                                    <img src="images/microsoft.jpg" class="img-fluid baw" title="depcsuite">
-                                </div>
-                                <div class="col-12- col-sm-10 p-3">
-                                    <h3>Programación C# .NET</h3>
-                                    <h4>Microsoft</h4>
-                                    <h5>Expedición: dic 2006</h5>
-                                    <p></p>
-                                </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6">
+                    <div class="row">
+                        <div class="col-2 py-3 my-auto d-none d-sm-block">
+                            <img src="images/unlam.png" class="img-fluid baw" title="depcsuite">
+                        </div>
+                        <div class="col-12- col-sm-10 p-3">
+                            <h3>Programación Web ASP.NET</h3>
+                            <h4>Universidad Nacional de La Matanza</h4>
+                            <h5>Expedición: dic 2019</h5>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6">
+                    <div class="row">
+                        <div class="col-2 py-3 my-auto d-none d-sm-block">
+                            <img src="images/microsoft.jpg" class="img-fluid baw" title="depcsuite">
+                        </div>
+                        <div class="col-12- col-sm-10 p-3">
+                            <h3>Programación C# .NET</h3>
+                            <h4>Microsoft</h4>
+                            <h5>Expedición: dic 2006</h5>
+                            <p></p>
+                        </div>
 
-                            </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6">
+                    <div class="row">
+                        <div class="col-2 py-3 my-auto d-none d-sm-block">
+                            <img src="images/sin-logo.png" class="img-fluid baw" title="depcsuite">
                         </div>
-                        <div class="col-12 col-sm-6">
-                            <div class="row">
-                                <div class="col-2 py-3 my-auto d-none d-sm-block">
-                                    <img src="images/sin-logo.png" class="img-fluid baw" title="depcsuite">
-                                </div>
-                                <div class="col-12- col-sm-10 p-3">
-                                    <h3>English Intermediate B2</h3>
-                                    <h4>Instituto John Milton de Cultura Inglesa</h4>
-                                    <h5>Expedición: dic 2006</h5>
-                                    <p></p>
-                                </div>
+                        <div class="col-12- col-sm-10 p-3">
+                            <h3>English Intermediate B2</h3>
+                            <h4>Instituto John Milton de Cultura Inglesa</h4>
+                            <h5>Expedición: dic 2006</h5>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+        <section id="idiomas">
+            <div class="container">
+                <div class="row py-5 mx-0">
+                    <div class="col-sm-6 col-12 pb-3 pb-sm-0">
+                        <div class="row mr-sm-1 bg-white card-idioma shadow me-sm-1">
+                            <div class="col-4 text-center card">
+                                <i class="fas fa-comment-alt"></i>
+                            </div>
+                            <div class="col-8 p-5">
+                                <h2>IDIOMAS</h2>
+                                <ul>
+                                    <li>ESPAÑOL - Nativo</li>
+                                    <li>INGLÉS - Intermediate B2</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
-
-                </section>
-                <section id="idiomas">
-                    <div class="container">
-                        <div class="row py-5 mx-0">
-                            <div class="col-sm-6 col-12 pb-3 pb-sm-0">
-                                <div class="row mr-sm-1 bg-white card-idioma shadow me-sm-1">
-                                    <div class="col-4 text-center card">
-                                        <i class="fas fa-comment-alt"></i>
-                                    </div>
-                                    <div class="col-8 p-5">
-                                        <h2>IDIOMAS</h2>
-                                        <ul>
-                                            <li>ESPAÑOL - Nativo</li>
-                                            <li>INGLÉS - Intermediate B2</li>
-                                        </ul>
-                                    </div>
-                                </div>
+                    <div class="col-sm-6 col-12">
+                        <div class="row ml-sm-2 bg-white card-idioma shadow ms-sm-1">
+                            <div class="col-4 text-center card">
+                                <i class="fas fa-star"></i>
                             </div>
-                            <div class="col-sm-6 col-12">
-                                <div class="row ml-sm-2 bg-white card-idioma shadow ms-sm-1">
-                                    <div class="col-4 text-center card">
-                                        <i class="fas fa-star"></i>
-                                    </div>
-                                    <div class="col-8 p-5">
-                                        <h2>HOBIEES</h2>
-                                        <ul>
-                                            <li>Golf</li>
-                                            <li>Tenis y Padel</li>
-                                        </ul>
-                                    </div>
-                                </div>
+                            <div class="col-8 p-5">
+                                <h2>HOBIEES</h2>
+                                <ul>
+                                    <li>Golf</li>
+                                    <li>Tenis y Padel</li>
+                                </ul>
                             </div>
-                                </div>
+                        </div>
+                    </div>
+                </div>
     </main>
     <footer id="footer-sobremi" class="container mt-5">
         <div class="row">
