@@ -51,6 +51,9 @@ h3{
 #sobremi .card{
     height: 182px;
 }
+#sobremi footer a, #proyectos footer a{
+    color: #e20000;
+}
 #experiencia h2{
     font-weight: 400;
     font-size: 24px;
@@ -163,6 +166,9 @@ p{
 nav .active {
     border: 1px solid #e20000;
     border-radius: 25px;
+}
+nav .nav-link{
+    color: #282828;
 }
 .navbar{
     display: flex;
